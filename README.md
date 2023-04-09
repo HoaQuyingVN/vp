@@ -1,5 +1,5 @@
 # VP Client
-Create chat client to YouTube client use VP.h
+Create chat client to YouTube client
 # Content Example
 ```mermaid
 sequenceDiagram
